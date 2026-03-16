@@ -10,8 +10,8 @@ I am a Third Year Undergraduate Student currently pursuing Bachelor of Technolog
 - Tools: Tableau, Big Data Tools (Apache Hadoop, Pig, Hive, Apache Spark)
 
 ## Featured Projects
-- 🔗 Supply Chain Prediction using Explainable AI
-- 🔗 AI - Driven Cloud Drug Management
+- Supply Chain Prediction using Explainable AI
+- AI - Driven Cloud Drug Management
 
 ## Connect with me
 - LinkedIn: [Naman Agarwal](www.linkedin.com/in/naman-agarwal24)

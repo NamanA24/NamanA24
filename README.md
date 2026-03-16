@@ -14,4 +14,4 @@ I am a Third Year Undergraduate Student currently pursuing Bachelor of Technolog
 - AI - Driven Cloud Drug Management
 
 ## Connect with me
-- LinkedIn: [Naman Agarwal](www.linkedin.com/in/naman-agarwal24)
+- LinkedIn: [Naman Agarwal](https://www.linkedin.com/in/naman-agarwal24/)

@@ -1,16 +1,17 @@
-## Hi there 👋
+# Hi, I'm Naman 👋
 
-<!--
-**NamanA24/NamanA24** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+🚀 Computer Science Student | AI/ML Enthusiast | Aspiring Software Engineer
 
-Here are some ideas to get you started:
+I am a Third Year Undergraduate Student currently pursuing Bachelor of Technology in Computer Science and Engineering from MIT World Peace University, Pune with CGPA of 8.77 (as of Semester 5). I'm passionate about solving real world problems using AI, data and scalable systems. Currently exploring Machine Learning, Cloud Systems and Full-Stack Development.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## 🛠 Tech Stack
+- Languages: C++, Python, SQL
+- AI/ML: NumPy, Pandas, Scikit-learn, TensorFlow
+- Tools: Tableau, Big Data Tools (Apache Hadoop, Pig, Hive, Apache Spark)
+
+## 📌 Featured Projects
+- 🔗 Supply Chain Prediction using Explainable AI
+- 🔗 AI - Driven Cloud Drug Management
+
+## 📫 Connect with me
+- LinkedIn: [Naman Agarwal](www.linkedin.com/in/naman-agarwal24)

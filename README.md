@@ -12,6 +12,7 @@ I am a Third Year Undergraduate Student currently pursuing Bachelor of Technolog
 ## Featured Projects
 - Supply Chain Prediction using Explainable AI
 - AI - Driven Cloud Drug Management
+- Secure Smart Campus Placement Portal 
 
 ## Connect with me
 - LinkedIn: [Naman Agarwal](https://www.linkedin.com/in/naman-agarwal24/)
